@@ -1,4 +1,4 @@
-Fork & Extend of P6spy
+Fork & Extension of P6spy
 Using NoopLogger instead of original FileLogger
 https://yookue.com
 
