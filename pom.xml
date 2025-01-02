@@ -22,7 +22,7 @@
 
     <groupId>com.yookue.forkextension.p6spy</groupId>
     <artifactId>p6spy</artifactId>
-    <version>4.0.0.</version>
+    <version>4.0.0</version>
 
     <name>${project.artifactId}</name>
     <description>Fork Extension of P6spy</description>
