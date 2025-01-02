@@ -21,7 +21,7 @@ import com.p6spy.engine.logging.Category;
 
 
 /**
- * {@link com.p6spy.engine.spy.appender.P6Logger} with no operations
+ * {@link com.p6spy.engine.spy.appender.P6Logger} with none operations
  *
  * @author David Hsing
  * @reference "https://forum.sentry.io/t/java-sdk-p6spy-log-file/16040/2"
