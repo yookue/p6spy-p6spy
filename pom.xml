@@ -25,7 +25,7 @@
     <version>4.0.1</version>
 
     <name>${project.artifactId}</name>
-    <description>Fork Extension of P6spy</description>
+    <description>Yookue Fork Extension of P6spy</description>
     <url>https://github.com/yookue/p6spy-p6spy</url>
     <inceptionYear>2022</inceptionYear>
 
