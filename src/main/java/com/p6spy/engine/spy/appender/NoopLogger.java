@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2022 Yookue Ltd. All rights reserved.
+ * Copyright (c) 2022 Unikue Ltd. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,6 +24,7 @@ import com.p6spy.engine.logging.Category;
  * {@link com.p6spy.engine.spy.appender.P6Logger} with none operations
  *
  * @author David Hsing
+ *
  * @reference "https://forum.sentry.io/t/java-sdk-p6spy-log-file/16040/2"
  */
 @SuppressWarnings({"unused", "JavadocDeclaration", "JavadocLinkAsPlainText"})

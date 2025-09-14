@@ -14,7 +14,7 @@ P6Spy is a framework that enables database data to be seamlessly intercepted and
 
 ```xml
         <dependency>
-            <groupId>com.yookue.forkextension.p6spy</groupId>
+            <groupId>cn.unikue.forkextension.p6spy</groupId>
             <artifactId>p6spy</artifactId>
             <version>LATEST</version>
         </dependency>
@@ -36,8 +36,8 @@ See the `NOTICE.txt` file for required notices and attributions.
 
 ## Donation
 
-You like this package? Then [donate to Yookue](https://yookue.com/public/donate) to support the development.
+You like this package? Then [donate to Unikue](https://unikue.cn/donation) to support the development.
 
 ## Website
 
-- Yookue: https://yookue.com
+- Unikue: https://unikue.cn

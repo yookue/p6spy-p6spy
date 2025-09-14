@@ -25,9 +25,10 @@ import com.p6spy.engine.logging.Category;
 
 
 /**
- * Appender which delegates to SLF4J. All log messages are logged at the INFO
- * level using the "p6spy" category, except debug and error ones that log on the
- * respective SLF4J categories.
+ * Appender which delegates to SLF4J.
+ * <p>
+ * All log messages are logged at the INFO level using the "p6spy" category,
+ * except debug and error ones that log on the respective SLF4J categories.
  */
 @SuppressWarnings("unused")
 public class Slf4JLogger extends FormattedLogger {
